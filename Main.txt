@@ -1,2 +1,12 @@
+
 Making changes in Main from Branch1
 Adding this line from Branch1 to test aborting merge
+
+
+Renamed GitBasics.txt to Main.txt on main branch
+
+Making changes in Main from Branch1
+
+Resolving Conflicts and adding this file to continue merging
+
+
